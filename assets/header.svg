@@ -1,0 +1,75 @@
+<svg viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg"
+     font-family="'SF Mono','Cascadia Code',ui-monospace,Menlo,Consolas,monospace">
+  <defs>
+    <linearGradient id="heat-signature" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ED5E91"/>
+      <stop offset="24%" stop-color="#E5B7F7"/>
+      <stop offset="50%" stop-color="#65A7FF"/>
+      <stop offset="73%" stop-color="#C7FF72"/>
+      <stop offset="100%" stop-color="#6ED6F5"/>
+    </linearGradient>
+    <style>
+      .comment { opacity: 0; animation: comment-cycle 64s infinite; }
+      .c0  { animation-delay: 0s; }
+      .c1  { animation-delay: 4s; }
+      .c2  { animation-delay: 8s; }
+      .c3  { animation-delay: 12s; }
+      .c4  { animation-delay: 16s; }
+      .c5  { animation-delay: 20s; }
+      .c6  { animation-delay: 24s; }
+      .c7  { animation-delay: 28s; }
+      .c8  { animation-delay: 32s; }
+      .c9  { animation-delay: 36s; }
+      .c10 { animation-delay: 40s; }
+      .c11 { animation-delay: 44s; }
+      .c12 { animation-delay: 48s; }
+      .c13 { animation-delay: 52s; }
+      .c14 { animation-delay: 56s; }
+      .c15 { animation-delay: 60s; }
+      @keyframes comment-cycle {
+        0%     { opacity: 1; }
+        5.625% { opacity: 1; }
+        6.25%  { opacity: 0; }
+        100%   { opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <!-- Full-bleed GitHub dark canvas: no transparent or black corner wedges. -->
+  <rect width="900" height="300" fill="#0D1117"/>
+
+  <text x="48" y="53" font-size="15" letter-spacing="0.25">
+    <tspan fill="#3FB950">delriscotechnologies</tspan><tspan fill="#768390">@github</tspan><tspan fill="#58A6FF">:~#&#160;</tspan>
+  </text>
+  <rect x="310" y="38" width="9" height="17" rx="1" fill="#58A6FF">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1"
+             dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <g x="48" y="82" font-size="13" letter-spacing="0.2" fill="#768390">
+    <text class="comment c0" x="48" y="82"># Let all things be done decently and in order. — 1 Corinthians 14:40</text>
+    <text class="comment c1" x="48" y="82"># sudo make me a sandwich.</text>
+    <text class="comment c2" x="48" y="82"># Resist the devil, and he will flee from you. — James 4:7</text>
+    <text class="comment c3" x="48" y="82"># git blame: because someone has to be responsible.</text>
+    <text class="comment c4" x="48" y="82"># The truth shall make you free. — John 8:32</text>
+    <text class="comment c5" x="48" y="82"># It works on my machine; ship the machine.</text>
+    <text class="comment c6" x="48" y="82"># Faith without works is dead. — James 2:26</text>
+    <text class="comment c7" x="48" y="82"># Linux: where rebooting is a troubleshooting failure.</text>
+    <text class="comment c8" x="48" y="82"># Be still, and know that I am God. — Psalm 46:10</text>
+    <text class="comment c9" x="48" y="82"># GitHub: where README confidence exceeds test coverage.</text>
+    <text class="comment c10" x="48" y="82"># Put on the whole armour of God. — Ephesians 6:11</text>
+    <text class="comment c11" x="48" y="82"># In case of fire: git commit, git push, leave.</text>
+    <text class="comment c12" x="48" y="82"># Iron sharpeneth iron. — Proverbs 27:17</text>
+    <text class="comment c13" x="48" y="82"># Be ye doers of the word, and not hearers only. — James 1:22</text>
+    <text class="comment c14" x="48" y="82"># Blessed is the man that endureth temptation. — James 1:12</text>
+    <text class="comment c15" x="48" y="82"># Endure hardness, as a good soldier of Jesus Christ. — 2 Timothy 2:3</text>
+  </g>
+
+  <text x="48" y="157" font-size="40" font-weight="700" letter-spacing="-0.6"
+        font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"
+        fill="#F0F6FC">Technology &amp; Cybersecurity Solutions</text>
+
+  <text x="50" y="193" font-size="15" letter-spacing="0.2" fill="#9DA7B3">Secure Infrastructure · Systems Integration · Security Operations</text>
+
+  <rect x="48" y="250" width="804" height="1.5" rx="0.75" fill="url(#heat-signature)"/>
+</svg>
