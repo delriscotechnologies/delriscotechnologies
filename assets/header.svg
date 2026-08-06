@@ -39,12 +39,8 @@
   <rect width="900" height="300" fill="#0D1117"/>
 
   <text x="48" y="53" font-size="15" letter-spacing="0.25">
-    <tspan fill="#3FB950">delriscotechnologies</tspan><tspan fill="#768390">@github</tspan><tspan fill="#58A6FF">:~#&#160;</tspan>
+    <tspan fill="#3FB950">delriscotechnologies</tspan><tspan fill="#768390">@github</tspan><tspan fill="#58A6FF">:~#</tspan><tspan dx="10" fill="#58A6FF">&#9608;<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.2s" repeatCount="indefinite"/></tspan>
   </text>
-  <rect x="310" y="38" width="9" height="17" rx="1" fill="#58A6FF">
-    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1"
-             dur="1.2s" repeatCount="indefinite"/>
-  </rect>
 
   <g x="48" y="82" font-size="13" letter-spacing="0.2" fill="#768390">
     <text class="comment c0" x="48" y="82"># Let all things be done decently and in order. — 1 Corinthians 14:40</text>
