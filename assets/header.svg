@@ -42,25 +42,6 @@
     <tspan fill="#3FB950">delriscotechnologies</tspan><tspan fill="#768390">@github</tspan><tspan fill="#58A6FF">:~#</tspan><tspan dx="10" fill="#58A6FF">&#9608;<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.2s" repeatCount="indefinite"/></tspan>
   </text>
 
-  <g x="48" y="106" font-size="13" letter-spacing="0.2" fill="#768390">
-    <text class="comment c0" x="48" y="106"># Let all things be done decently and in order. — 1 Corinthians 14:40</text>
-    <text class="comment c1" x="48" y="106"># sudo make me a sandwich.</text>
-    <text class="comment c2" x="48" y="106"># Resist the devil, and he will flee from you. — James 4:7</text>
-    <text class="comment c3" x="48" y="106"># git blame: because someone has to be responsible.</text>
-    <text class="comment c4" x="48" y="106"># The truth shall make you free. — John 8:32</text>
-    <text class="comment c5" x="48" y="106"># It works on my machine; ship the machine.</text>
-    <text class="comment c6" x="48" y="106"># Faith without works is dead. — James 2:26</text>
-    <text class="comment c7" x="48" y="106"># Linux: where rebooting is a troubleshooting failure.</text>
-    <text class="comment c8" x="48" y="106"># Be still, and know that I am God. — Psalm 46:10</text>
-    <text class="comment c9" x="48" y="106"># GitHub: where README confidence exceeds test coverage.</text>
-    <text class="comment c10" x="48" y="106"># Put on the whole armour of God. — Ephesians 6:11</text>
-    <text class="comment c11" x="48" y="106"># In case of fire: git commit, git push, leave.</text>
-    <text class="comment c12" x="48" y="106"># Iron sharpeneth iron. — Proverbs 27:17</text>
-    <text class="comment c13" x="48" y="106"># Be ye doers of the word, and not hearers only. — James 1:22</text>
-    <text class="comment c14" x="48" y="106"># Blessed is the man that endureth temptation. — James 1:12</text>
-    <text class="comment c15" x="48" y="106"># Endure hardness, as a good soldier of Jesus Christ. — 2 Timothy 2:3</text>
-  </g>
-
   <text x="48" y="170" font-size="40" font-weight="700" letter-spacing="-0.6"
         font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"
         fill="#F0F6FC">Technology &amp; Cybersecurity Solutions</text>
