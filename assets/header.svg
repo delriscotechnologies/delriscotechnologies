@@ -35,10 +35,9 @@
     </style>
   </defs>
 
-  <!-- Full-bleed GitHub dark canvas: no transparent or black corner wedges. -->
   <rect width="900" height="320" fill="#0D1117"/>
 
-  <text x="48" y="78" font-size="15" letter-spacing="0.25">
+  <text x="48" y="78" font-size="17" letter-spacing="0.25">
     <tspan fill="#3FB950">delriscotechnologies</tspan><tspan fill="#768390">@github</tspan><tspan fill="#58A6FF">:~#</tspan><tspan dx="10" fill="#58A6FF">&#9608;<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.2s" repeatCount="indefinite"/></tspan>
   </text>
 
